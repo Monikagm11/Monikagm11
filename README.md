@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikagm11&label=Profile%20views&color=0e75b6&style=flat" alt="monikagm11" /> </p>
 
-- 🔭 Currently working as a intern at **Nepal Education And Research Network**
+- 🔭 Completed on-site internship at **Nepal Education And Research Network**
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
