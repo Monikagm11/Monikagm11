@@ -7,8 +7,6 @@
 
 - 🔭 Completed on-site internship at **Nepal Education And Research Network**
 
-- 🌱 I’m currently learning **Flutter and Dart**
-
 - 📫 How to reach me **gautammonika489@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
